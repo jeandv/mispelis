@@ -1,3 +1,49 @@
+## Descripción 💬
+
+✔ En este repositorio esta un proyecto de react llamado MisPelis, en este puedes añadir las pelis que tu quieras con su descripción y la puedes editar, borrar y añadir tantas como tu quieras, tambien puedes buscar por su nombre y aparecera si tiene alguna coincidencia o cuando coloques el nombre en si.
+
+## Autor 🤠
+
+· [LinkedIn](https://www.linkedin.com/in/jeandv/) <br>
+· [Twitter](https://www.twitter.com/r4yb4/) <br>
+· [Instagram](https://www.instagram.com/jnxrn/) <br>
+· [GitHub](https://github.com/jeandv/) 
+
+## URL para ver el resultado 👁‍🗨
+
+✔ Para ver el resultado final puedes verlo aquí! https://mispelis.vercel.app/
+
+## Tecnologias usadas 🛠️
+
+· HTML5 <br>
+· CSS3 <br>
+· Javascript <br>
+· React JS <br>
+· Componentes <br>
+· Hooks (useState, useEffect, ...) <br>
+
+## Instalación 💻
+
+✔ Este proyecto para abrirlo y ver el resultado necesitas ir a tu terminal y escribir " npm start " sin las comillas.
+
+## Contratación 📧
+
+Si quieres contratarme puedes escribirme a jeanrdev@gmail.com o a mi [LinkedIn](https://www.linkedin.com/in/jeandv/) para consultas.
+
+# Vista previa 🔎
+
+![a](https://user-images.githubusercontent.com/90219458/166339336-d215eca1-f19f-4b29-a6c9-ac998e067895.png)
+
+
+<small>Creado por Jean Rondón</small>
+
+///////////////////////////////////////////////////////
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
