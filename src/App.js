@@ -43,10 +43,10 @@ function App() {
       {/* Pie de página */}
       <footer className="footer">
         <div className="share" id="share">
-          <a href="https://www.instagram.com/jnxrn" className="fab fa-instagram"></a>
-          <a href="https://twitter.com/r4yb4" className="fab fa-twitter"></a>
-          <a href="https://github.com/jeandv" className="fab fa-github"></a>
-          <a href="https://www.linkedin.com/in/jeandv" className="fab fa-linkedin"></a>
+          <a href="https://www.instagram.com/_.jeanr/" target="_blank" className="fab fa-instagram"></a>
+          <a href="https://twitter.com/r4yb4" target="_blank" className="fab fa-twitter"></a>
+          <a href="https://github.com/jeandv" target="_blank" className="fab fa-github"></a>
+          <a href="https://www.linkedin.com/in/jeandv" target="_blank" className="fab fa-linkedin"></a>
         </div>
         <p>&copy; Jean Rondón | <a href="https://jeandv.vercel.app/" target="_blank">mi portafolio :)</a></p>
       </footer>
