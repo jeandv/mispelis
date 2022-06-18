@@ -48,7 +48,7 @@ function App() {
           <a href="https://github.com/jeandv" className="fab fa-github"></a>
           <a href="https://www.linkedin.com/in/jeandv" className="fab fa-linkedin"></a>
         </div>
-        <p>&copy; Jean Rondón | <a href="https://jeandv.github.io/jeandv-portfolio/">mi portafolio :)</a></p>
+        <p>&copy; Jean Rondón | <a href="https://jeandv.vercel.app/">mi portafolio :)</a></p>
       </footer>
     </div>
   );
